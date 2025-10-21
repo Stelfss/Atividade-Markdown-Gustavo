@@ -1,34 +1,34 @@
-📚 Sistema de Gerenciamento de Biblioteca Escolar
+📚 SISTEMA DE GERENCIAMENTO DE BIBLIOTECA ESCOLAR
 
 Um sistema desenvolvido para facilitar o controle de livros, empréstimos e cadastros de alunos em uma biblioteca escolar.
 O objetivo é automatizar processos, reduzir erros manuais e tornar o ambiente escolar mais organizado e tecnológico. ✨
 
-🧭 Índice
+🧭 ÍNDICE
 
-Sobre o Projeto
+SOBRE O PROJETO
 
-Funcionalidades
+FUNCIONALIDADES
 
-Tecnologias Utilizadas
+TECNOLOGIAS UTILIZADAS
 
-Como Usar
+COMO USAR
 
-Exemplo de Uso
+EXEMPLO DE USO
 
-Próximas Atualizações
+PRÓXIMAS ATUALIZAÇÕES
 
-Contribuidores
+CONTRIBUIDORES
 
-Contato
+CONTATO
 
-🏫 Sobre o Projeto
+🏫 SOBRE O PROJETO
 
 O Sistema de Gerenciamento de Biblioteca Escolar foi criado com o intuito de modernizar o ambiente educacional.
 Seu desenvolvimento segue boas práticas de programação e arquitetura de software, garantindo eficiência, escalabilidade e retrabalho mínimo.
 
 "O principal objetivo do projeto é incentivar o uso da tecnologia na gestão escolar, proporcionando um acesso mais rápido e inteligente às informações."
 
-⚙️ Funcionalidades
+⚙️ FUNCIONALIDADES
 
 Cadastro de alunos e professores
 
@@ -40,17 +40,17 @@ Relatórios automáticos de livros mais emprestados
 
 Sistema de login e níveis de acesso (admin / usuário)
 
-💻 Tecnologias Utilizadas
-Categoria	Tecnologia
+💻 TECNOLOGIAS UTILIZADAS
+CATEGORIA	TECNOLOGIA
 Linguagem de Programação	Python
 Banco de Dados	MySQL
 Framework	Flask
 Sistema Operacional	Windows 11 / Linux Ubuntu
-🚀 Como Usar
+🚀 COMO USAR
 
 Clone este repositório:
 
-git clone https://github.com/usuario-exemplo/biblioteca-escolar.git
+git clone https://github.com/andrelima-dev/biblioteca-escolar.git
 
 
 Acesse a pasta do projeto:
@@ -72,7 +72,7 @@ Acesse no navegador:
 
 http://localhost:5000
 
-🧩 Exemplo de Uso
+🧩 EXEMPLO DE USO
 # Exemplo simples de registro de um novo livro no sistema
 
 from biblioteca import SistemaBiblioteca
@@ -85,7 +85,7 @@ print("Livro adicionado com sucesso! 📘")
 
 "Ler é viajar sem sair do lugar." — Objetivo do projeto
 
-✅ Próximas Atualizações
+✅ PRÓXIMAS ATUALIZAÇÕES
 
  Implementar login de administrador
 
@@ -97,28 +97,28 @@ print("Livro adicionado com sucesso! 📘")
 
  Desenvolver aplicativo mobile 📱
 
-🔗 Repositórios Relacionados
+🔗 REPOSITÓRIOS RELACIONADOS
 
 Sistema de Cadastro Escolar
 
 Gerenciador de Biblioteca CLI
 
-👥 Contribuidores
+👥 CONTRIBUIDORES
 
 Agradecimentos especiais aos colaboradores que tornaram este projeto possível:
 
-@usuario1 — Desenvolvedor Backend
+@andrelima-dev — Desenvolvedor Backend
 
-@usuario2 — Designer de Interface
+@larissatech — Designer de Interface
 
-@usuario3 — Documentação e Testes 😎
+@pedroaraujo — Documentação e Testes 😎
 
-📞 Contato
+📞 CONTATO
 
 Entre em contato para sugestões, dúvidas ou colaborações:
 
-📧 Email: contato@bibliotecaescolar.com
+📧 Email: contato@escolatech.com
 
-🌐 Site: www.bibliotecaescolar.com
+💼 LinkedIn: linkedin.com/in/andrelima-dev
 
-📱 WhatsApp: (11) 99999-9999
+🐙 GitHub: github.com/andrelima-dev
