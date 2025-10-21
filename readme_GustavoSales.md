@@ -96,7 +96,7 @@ print("📚 Livro cadastrado com sucesso!")
 "A tecnologia é uma ponte entre o conhecimento e o leitor."
 — Equipe de Desenvolvimento
 
-✅ Próximas Atualizações
+## ✅ Próximas Atualizações
  Implementar cadastro de livros
 
  Criar autenticação de usuários
@@ -107,12 +107,12 @@ print("📚 Livro cadastrado com sucesso!")
 
  Criar modo escuro 🌙
 
-🔗 Repositórios Relacionados
+## 🔗 Repositórios Relacionados
 Sistema de Login Escolar
 
 Controle de Alunos e Professores
 
-👥 Contribuidores
+## 👥 Contribuidores
 @devLima – Desenvolvedor Backend
 
 @anaCode – Designer e Documentação
@@ -120,9 +120,9 @@ Controle de Alunos e Professores
 @tecnosilva – Testes e Qualidade
 
 📬 Contato
-Nome: João Martins
-Email: joao.martins@exemplo.com
-LinkedIn: linkedin.com/in/joaomartins
+📧 Email: contato@bibliotecaescolar.com
+🌐 Site: www.bibliotecaescolar.com
+📱 WhatsApp: (11) 99999-9999
 
 © 2025 - Sistema de Gerenciamento de Biblioteca Escolar
 Todos os direitos reservados.
