@@ -85,7 +85,7 @@ print("Livro adicionado com sucesso! 📘")
 
 "Ler é viajar sem sair do lugar." — Objetivo do projeto
 
-✅ PRÓXIMAS ATUALIZAÇÕES
+#✅ PRÓXIMAS ATUALIZAÇÕES
 
  Implementar login de administrador
 
