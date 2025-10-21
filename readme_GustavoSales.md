@@ -37,4 +37,92 @@ Com uma interface intuitiva e recursos automatizados, o sistema ajuda bibliotec�
 
 ---
 
-## ⚙️
+## ⚙️ Funcionalidades
+
+- 📘 Cadastro de livros, alunos e funcionários  
+- 🔍 Pesquisa de livros por título, autor ou categoria  
+- ⏰ Controle de prazos de devolução  
+- 📊 Relatórios automáticos de uso da biblioteca  
+- 🧾 Histórico de empréstimos  
+- 🛠️ Interface simples e intuitiva  
+
+---
+
+## 💻 Tecnologias
+
+| Categoria               | Tecnologia Utilizada   |
+|--------------------------|------------------------|
+| Linguagem de Programação | Python 🐍              |
+| Banco de Dados           | MySQL 💾              |
+| Framework                | Django 🌐             |
+| Sistema Operacional      | Linux 🐧              |
+
+---
+
+## 🚀 Como Usar
+
+1. **Baixe** ou clone este repositório:
+   ```bash
+   git clone https://github.com/exemplo/sistema-biblioteca.git
+Acesse o diretório do projeto:
+
+bash
+Copiar código
+cd sistema-biblioteca
+Instale as dependências:
+
+bash
+Copiar código
+pip install -r requirements.txt
+Execute o servidor:
+
+bash
+Copiar código
+python manage.py runserver
+Acesse o sistema no navegador:
+👉 http://localhost:8000
+
+💡 Exemplo de Código
+python
+Copiar código
+# Exemplo de cadastro de livro no sistema
+
+from biblioteca.models import Livro
+
+livro = Livro(titulo="Dom Casmurro", autor="Machado de Assis", categoria="Romance")
+livro.save()
+
+print("📚 Livro cadastrado com sucesso!")
+"A tecnologia é uma ponte entre o conhecimento e o leitor."
+— Equipe de Desenvolvimento
+
+✅ Próximas Atualizações
+ Implementar cadastro de livros
+
+ Criar autenticação de usuários
+
+ Adicionar sistema de notificações por e-mail
+
+ Gerar relatórios em PDF
+
+ Criar modo escuro 🌙
+
+🔗 Repositórios Relacionados
+Sistema de Login Escolar
+
+Controle de Alunos e Professores
+
+👥 Contribuidores
+@devLima – Desenvolvedor Backend
+
+@anaCode – Designer e Documentação
+
+@tecnosilva – Testes e Qualidade
+
+📬 Contato
+Nome: João Martins
+Email: joao.martins@exemplo.com
+LinkedIn: linkedin.com/in/joaomartins
+
+© 2025 - Sistema de Gerenciamento de Biblioteca Escolar
+Todos os direitos reservados.
